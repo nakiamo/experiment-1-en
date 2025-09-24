@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Environment
+.env
+.env.*
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# Node (if you add tooling later)
+node_modules/
+
+# Build artifacts (if you add a bundler later)
+dist/
+build/
+
+# Tests/coverage (if added)
+coverage/
